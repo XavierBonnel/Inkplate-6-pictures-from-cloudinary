@@ -2,7 +2,7 @@
 
 Arduino code for using on Soldered Inkplate 6 to show pictures from cloudinary folder.
 
-```
+```c++
 #include "HTTPClient.h"
 #include "Inkplate.h"
 #include "WiFi.h"
